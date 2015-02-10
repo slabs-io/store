@@ -1,7 +1,7 @@
-ticker
+store
 =============
 
-##The ticker module for use with slabs.io.
+##The storage module for use with slabs.io.
 
 Before use run :
 ```
