@@ -2,7 +2,7 @@
   "name" : "Store",
   "description" : "This is where you store the results of each tick.",
   "type" : "utility",
-  "connectionsIn" : -1,
+  "connectionsIn" : 1,
   "connectionsOut" : -1,
   "schema" : {
     "type": "object",
